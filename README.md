@@ -5,8 +5,8 @@
 </p>
 
 ## hugoMGSung's github
-- Name : Hugo MG. Sung (Korean Name : Sung Myung Gun)
-- Email : personar96@naver.com
+- Name : Sun Mi Kwon (Korean Name : Kwon Sun Mi)
+- Email : ksm8430058@naver.com
 - 🔭 I’m currently working on ICT Leturer
 
 White basic simple theme
